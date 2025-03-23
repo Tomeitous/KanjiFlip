@@ -1,6 +1,6 @@
 # Kanji Flip
 
-![Kanji Flip App Screenshot](docs/images/kanji-flip-screenshot.png)
+![Kanji Flip App Screenshot](https://i.imgur.com/V8K2Xew.png)
 
 An interactive Japanese kanji learning application that helps users study and memorize kanji characters through digital flashcards.
 
